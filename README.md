@@ -1,1 +1,1 @@
-# MW-Zad-Warsztat1
+# MW-Warsztat-Zad1
